@@ -19,11 +19,15 @@
 
 ###
 
-![Pacman contribution graph](https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/pacman-output/pacman-contribution-graph.svg?game=pacman)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/snake-output/snake.svg)
+<img data-importer="snake" src="https://raw.githubusercontent.com/Ardi-Pebriyan/Ardi-Pebriyan/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -32,6 +36,7 @@
 </div>
 
 ###
+
 
 ### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Ardi-Pebriyan&theme=dark&hide_border=false)
